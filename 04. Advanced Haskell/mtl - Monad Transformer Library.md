@@ -1,1 +1,0 @@
-[https://wiki.haskell.org/Monad_Transformer_Library](https://wiki.haskell.org/Monad_Transformer_Library)

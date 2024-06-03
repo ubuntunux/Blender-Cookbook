@@ -1,1 +1,0 @@
-[https://github.com/AccelerateHS/accelerate/](https://github.com/AccelerateHS/accelerate/)

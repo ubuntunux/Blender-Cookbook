@@ -1,1 +1,0 @@
-[https://serokell.io/blog/dimensions-and-haskell-introduction](https://serokell.io/blog/dimensions-and-haskell-introduction)
