@@ -1,3 +1,5 @@
+> [Python Snippets](../README.md) / [Blender Python Snippets](README.md) / BlendDataLibraries.md
+## BlendDataLibraries
 [https://docs.blender.org/api/current/bpy.types.BlendDataLibraries.html](https://docs.blender.org/api/current/bpy.types.BlendDataLibraries.html)
 
 load(filepath, link=False, relative=False, assets_only=False, create_liboverrides=False, reuse_liboverrides=False, create_liboverrides_runtime=False)
