@@ -10,4 +10,4 @@
 #### Blender Python Snippets
 - [add a collection to scene](docs/Blender%20Python%20Snippets/add%20a%20collection%20to%20scene.md)
 - [BlendDataLibraries](docs/Blender%20Python%20Snippets/BlendDataLibraries.md)
-- [Get the Color value from an RGB node with Python](docs/Blender%20Python%20Snippets/Get%20the%20Color%20value%20from%20an%20GB%20node%20with%20Python.md)
+- [Get the Color value from an RGB node with Python](docs/Blender%20Python%20Snippets/Get%20the%20Color%20value%20from%20an%20RGB%20node%20with%20Python.md)
