@@ -6,7 +6,8 @@
 
 [![](https://img.youtube.com/vi/opZy2OJp8co/mqdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
-
-
-https://github.com/ubuntunux/Blender-Cookbook/assets/16193695/47ca4840-1c0f-482f-8d0a-3a40775dc93c
-
+### Contents
+#### Blender Python Snippets
+* [add a collection to scene](docs/Blender Python Snippets/add a collection to scene.md)
+* [BlendDataLibraries](docs/Blender Python Snippets/BlendDataLibraries.md)
+* [Get the Color value from an RGB node with Python](docs/Blender Python Snippets/Get the Color value from an RGB node with Python.md)
