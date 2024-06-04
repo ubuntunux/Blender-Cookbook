@@ -3,7 +3,7 @@ import traceback
 import re
 
 re_title = re.compile('#+ (.+)')
-docs_title = 'Python Snippets'
+docs_title = 'Blender Cookbook'
 document_dirname = 'docs'
 image_dirname = 'img'
 markdown_ext = '.md'

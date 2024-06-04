@@ -1,4 +1,4 @@
-> [Python Snippets](../README.md) / [Blender Python Snippets](README.md) / BlendDataLibraries.md
+> [Blender Cookbook](../README.md) / [Blender Python Snippets](README.md) / BlendDataLibraries.md
 ## BlendDataLibraries
 [https://docs.blender.org/api/current/bpy.types.BlendDataLibraries.html](https://docs.blender.org/api/current/bpy.types.BlendDataLibraries.html)
 
